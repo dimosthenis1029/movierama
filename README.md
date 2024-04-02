@@ -1,6 +1,5 @@
 # movierama
 a small social sharing app where registered users can submit a movie they like and others will like or hate that movie.
-the link of the app is here: http://ec2-52-91-51-228.compute-1.amazonaws.com:5002/ 
 
 # so, walk through:
 a few words about the submitted code:
